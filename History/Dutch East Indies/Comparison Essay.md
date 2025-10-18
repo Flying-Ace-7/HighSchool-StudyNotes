@@ -1,7 +1,7 @@
 [[History MOC]]
 
 There are two types of comparison qns:
-EITHER: Help all
+EITHER:
 - Compare reasons of intervetnion of [Brithish Malaya]([[Colonisation of SEA_Political Intervention]]), [Dutch East indies]([[Dutch East Indies I]])
 - Compare transformation of colonial powers of [Malaya]([[Transformation of British Malaya I]]), DEI
 
