@@ -1,5 +1,7 @@
 [[Biology MOC]]
-Progestrone is a hormone that peaks a few daya after [[Ovulation]] and maintains a constant level before dropping, causing the endometrium and uterine lining to shed.
+Progesterone is a hormone that peaks a few daya after [[Ovulation]] and maintains a constant level before dropping, causing the endometrium and uterine lining to shed.
+
+After Ovulation, inhibit [[Lutenising Hormone]] Production in High amounts and prevents ovulation (from happeneing again.)
 
 
 | Before ovulation: Cells in the ovary | At a low level                                                                                                     |

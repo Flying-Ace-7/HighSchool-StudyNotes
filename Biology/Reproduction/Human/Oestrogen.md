@@ -3,6 +3,9 @@ Function of Oestrogen:
 
 The endometrium is thick and spongy with blood vessels
 
+Provides Negative feedback to the Pituitary gland to inhibit LH Production (before Ovulation)
+At high concentrations, inhibit FSH Production (after ovulation)
+
 
 [[Biology MOC]]
 

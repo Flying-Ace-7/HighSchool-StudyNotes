@@ -19,7 +19,7 @@ Graafian follicle also secretes [[Oestrogen]] for the growth and repair of endom
 During Ovulation, the Graafian follicle rupture to release the haploid egg into the oviduct, swept throgh by the fimbria.
 ^ovulation-FSH-LH
 
-The ruptutured Graafian follicle develops into a corpus luteum, which secrets [[Oestrogen]] and [[Progestrone]]
+The ruptutured Graafian follicle develops into a corpus luteum, which secrets [[Oestrogen]] and [[Progesterone]]
 
 If no fertilisation occurs, the corpus leutuem breaks down and the levles of Oestrogen and progestrone decreases.
 
