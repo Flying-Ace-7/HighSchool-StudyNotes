@@ -12,7 +12,7 @@ Males
 
 Females
 - [[Oestrogen]] 
-- [[Progestrone]]
+- [[Progesterone]]
 
 Common:
 - Gonadotrophin releasing Hormone ([[Gonadotrophin Releasing Hormone I|GnRH]])
@@ -31,7 +31,7 @@ Gonads start increasing levels of sex hormone (testosterone in males - Oestrogen
 # Mensuration
 > [!tip] Hormones involved
 > - [[Oestrogen]]
-> - [[Progestrone]]
+> - [[Progesterone]]
 > - FSH
 > - LH
 >GnRH too, rlly useful hahah
